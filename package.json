@@ -1,9 +1,9 @@
 {
   "name": "@scripty/routes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Danijel Garic",
   "license": "MIT",
-  "description": "authentication wrapper for passport local strategy.",
+  "description": "routes helper.",
   "homepage": "https://garic.biz",
   "keywords": [
     "routes",
